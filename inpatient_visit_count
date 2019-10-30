@@ -1,4 +1,4 @@
-*I wanted to make some changes;
+*I wanted to make some changes;Done;
 *read specialty list;
 proc import out=joel.speclist datafile="/specialtylist.xlsx"
 dbms=xlsx replace;
